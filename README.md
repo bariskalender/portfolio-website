@@ -55,8 +55,8 @@ Suggested location:
 
 And then reference them here:
 
-    ![Desktop Screenshot](assets/screenshots/desktop.png)
-    ![Mobile Screenshot](assets/screenshots/mobile.png)
+![Desktop Screenshot](assets/screenshots/desktop.png)
+![Mobile Screenshot](assets/screenshots/mobile.png)
 
 ## Future Improvements
 
